@@ -58,13 +58,13 @@
 </section>
 </section>
 <div>
-    <h1 class="text-center mt-7 text-3xl font-Pretendard-ExtraBold tracking-tight leading-none text-black dark:text-white">인기 코스</h1>
+    <h1 class="text-center mt-5 text-3xl font-Pretendard-ExtraBold tracking-tight leading-none text-black dark:text-white">인기 코스</h1>
     <h1 class="text-center mt-3 text-xl font-Pretendard-Regular tracking-tight leading-none text-slate-500 dark:text-white">추후 공개 예정</h1>
 </div>
 <footer class="bg-white rounded-xl m-4 dark:bg-gray-800">
     <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
-      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" class="hover:underline">Classtream</a>. All Rights Reserved.
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href=# class="hover:underline">Classtream</a>. All Rights Reserved.
     </span>
-    </div>
+</div>
 </footer>
 </template>
