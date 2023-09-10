@@ -43,6 +43,20 @@
         </div>
     </div>
 </section>
+<section>
+    <section class="bg-white dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+            <h2 class="mb-4 text-3xl tracking-tight font-Pretendard-ExtraBold text-gray-900 dark:text-white">왜 Classtream인가</h2>
+            <p class="mb-4 font-Pretendard-Regular">Classtream의 모토는 각자에게 필요한 교육입니다.<br>진정 나에게 필요한 교육이 무엇인가에 대해 직접 강의를 찾고, 코스를 작성하는 것은 굉장히 힘든 일입니다.<br>Classtream은 이 일을 대신 해드리겠습니다.</p>
+        </div>
+        <div class="grid grid-cols-2 gap-4 mt-8">
+            <img class="w-full rounded-lg" src="./assets/1.jpg" alt="office content 1">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="./assets/2.jpg" alt="office content 2">
+        </div>
+    </div>
+</section>
+</section>
 <div>
     <h1 class="text-center mt-7 text-3xl font-Pretendard-ExtraBold tracking-tight leading-none text-black dark:text-white">인기 코스</h1>
     <h1 class="text-center mt-3 text-xl font-Pretendard-Regular tracking-tight leading-none text-slate-500 dark:text-white">추후 공개 예정</h1>
